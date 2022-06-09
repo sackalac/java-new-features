@@ -1,0 +1,55 @@
+
+±
+java:S3577"•Rename class "java8CollectorUnitTest" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÂŞ¬Üşÿÿÿÿ
+9
+java:S5786"Remove this 'public' modifier.(¥Ø§üøÿÿÿÿ
+4
+java:S5786""Remove this 'public' modifier.(Û¶õµ
+4
+java:S5786*"Remove this 'public' modifier.( äôÕ
+4
+java:S57861"Remove this 'public' modifier.(È·ã‹
+4
+java:S57869"Remove this 'public' modifier.(†°¾Å
+4
+java:S5786@"Remove this 'public' modifier.(ùÜ¡
+9
+java:S5786G"Remove this 'public' modifier.(ÈÈÂºıÿÿÿÿ
+4
+java:S5786O"Remove this 'public' modifier.(šÂï¢
+9
+java:S5786V"Remove this 'public' modifier.(ÒøÚŸûÿÿÿÿ
+3
+java:S5786_"Remove this 'public' modifier.(Á¶®;
+9
+java:S5786l"Remove this 'public' modifier.(èº¦Æúÿÿÿÿ
+9
+java:S5786s"Remove this 'public' modifier.(®¾ã‡ùÿÿÿÿ
+4
+java:S5786z"Remove this 'public' modifier.(ªÑÌğ
+5
+java:S5786"Remove this 'public' modifier.(ãúÒö
+:
+java:S5786ˆ"Remove this 'public' modifier.(Ö×˜åùÿÿÿÿ
+5
+java:S5786"Remove this 'public' modifier.(«¿Äµ
+5
+java:S5786š"Remove this 'public' modifier.(ï›óƒ
+:
+java:S5786¡"Remove this 'public' modifier.(÷·ûÖıÿÿÿÿ
+:
+java:S5786¬"Remove this 'public' modifier.(–èÿşÿÿÿÿ
+5
+java:S5786³"Remove this 'public' modifier.(è‹¢
+5
+java:S5786º"Remove this 'public' modifier.(Ë›Ïú
+4
+java:S5786Á"Remove this 'public' modifier.( §¿4
+4
+java:S5786È"Remove this 'public' modifier.(Á¾œ
+9
+java:S5786"Remove this 'public' modifier.(ÂŞ¬Üşÿÿÿÿ
+x
+java:S5778H"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(®±
+x
+java:S5778m"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(®±

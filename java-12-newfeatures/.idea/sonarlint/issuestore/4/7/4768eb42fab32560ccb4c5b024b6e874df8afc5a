@@ -1,0 +1,9 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(›…Õ8²üŠ¶”0
+E
+java:S16598"#Declare "line2" on a separate line.(¸îî­ùÿÿÿÿ8¸üŠ¶”0
+i
+java:S2677@"LUse or store the value returned from "readLine" instead of throwing it away.(©¸²8¹üŠ¶”0
+R
+java:S1128	"0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ8²ÁŠ¶”0

@@ -1,0 +1,36 @@
+
+ˆ
+java:S1192 "lDefine a constant instead of duplicating this literal "http://jsonplaceholder.typicode.com/posts/1" 3 times.(õ…–O8¯ç›³”0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¨¦ÿÿÿÿÿ
+‘
+java:S1130"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Êìì›8ëÅœ³”0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(…Æ…Ùıÿÿÿÿ8Âç›³”0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(çƒ³¶8Âç›³”0
+^
+java:S10750"ARefactor your code to get this URI from a customizable parameter.(ç­°¨8òÅœ³”0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¾·ÑË8Äç›³”0
+]
+java:S1075;"ARefactor your code to get this URI from a customizable parameter.(®É^8şÅœ³”0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(•£¯™ıÿÿÿÿ8Åç›³”0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(…¿°’8Æç›³”0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ª‡ùÿÿÿÿ8Æç›³”0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(’×ˆíÿÿÿÿÿ8Æç›³”0
+c
+java:S1075K"ARefactor your code to get this URI from a customizable parameter.(ì€¦Îüÿÿÿÿ8Æœ³”0
+c
+java:S1075K"ARefactor your code to get this URI from a customizable parameter.(ì€¦Îüÿÿÿÿ8Æœ³”0
+]
+java:S1612N";Replace this lambda with method reference 'Builder::build'.(ßÙáúıÿÿÿÿ8›Æœ³”0
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¡‚ª¤8Éç›³”0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ª–·Õ8Ëç›³”0
+–
+java:S1130X"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ÓÉ¹şÿÿÿÿ8ŸÆœ³”0
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(éÜ8Ìç›³”0
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ø÷—Üşÿÿÿÿ8Ïç›³”0
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ó¼şŞşÿÿÿÿ8Ïç›³”0
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8Ğç›³”0
+I
+java:S1602v",Remove useless curly braces around statement(Öäªõ8Şç›³”0
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(½ÀÛ¶8Şç›³”0
+T	java:S106y"9Replace this use of System.out or System.err by a logger.(Ûª×W8ßç›³”0
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(ÁÍãĞ8ßç›³”0

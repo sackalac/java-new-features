@@ -1,0 +1,17 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¸Ñ‚Â8‘è“0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8·›‚è“0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¸›‚è“0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¸›‚è“0
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8¸›‚è“0
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8¸›‚è“0
+_
+java:S1128"=Remove this unused import 'java.util.random.RandomGenerator'.(—›­úÿÿÿÿ8¸›‚è“0
+f
+java:S1128	"DRemove this unused import 'java.util.random.RandomGeneratorFactory'.(¿ª´‹ûÿÿÿÿ8¹›‚è“0

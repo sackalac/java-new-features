@@ -1,0 +1,22 @@
+
+k
+java:S1128"IRemove this unused import 'org.eclipse.collections.api.list.MutableList'.(Ü”×ðüÿÿÿÿ8×™«³”0
+q
+java:S1128"ORemove this unused import 'org.eclipse.collections.api.list.primitive.IntList'.(ÐÌ–Óùÿÿÿÿ8×™«³”0
+l
+java:S1128"ORemove this unused import 'org.eclipse.collections.impl.list.mutable.FastList'.(º“Àé8×™«³”0
+
+java:S1128"]Remove this unused import 'org.eclipse.collections.impl.list.mutable.primitive.IntArrayList'.(ðÜáçÿÿÿÿÿ8Ø™«³”0
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ø™«³”0
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ù™«³”0
+Z
+java:S1128"8Remove this unused import 'java.util.PrimitiveIterator'.(‘‚È¿þÿÿÿÿ8Ù™«³”0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ù™«³”0
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8Ù™«³”0
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8Ù™«³”0

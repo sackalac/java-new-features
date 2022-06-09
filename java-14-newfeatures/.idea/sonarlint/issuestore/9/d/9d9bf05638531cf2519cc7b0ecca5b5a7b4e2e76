@@ -1,0 +1,7 @@
+
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "emailAddress".(ãÊíø8ß—»”0
+h
+java:S2259"FA "NullPointerException" could be thrown; "employee" is nullable here.(¿¼µ™øÿÿÿÿ8¡ß—»”0
+e
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(Í•ê‹úÿÿÿÿ8¢ß—»”0
